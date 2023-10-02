@@ -22,3 +22,11 @@
 ![](https://img.shields.io/badge/Django-4.2.1-6495ED) ![](https://img.shields.io/badge/djangorestframework-3.14.0-6495ED)  ![](https://img.shields.io/badge/authtoken-2.1.4-6495ED) \
 Covers trends in the use of cryptography in finance, healthcare, law enforcement, and other industries.
 
+***
+
+## My Github Stats
+
+![](https://komarev.com/ghpvc/?username=DPavlen&style=for-the-badge&label=MY_PROFILE_VIEWS)
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=DPavlen&show_icons=true&include_all_commits=true)](https://github.com/DPavlen/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DPavlen&layout=donut&custom_title=My+Most+Used+Languages)](https://github.com/DPavlen/github-readme-stats)
