@@ -1,16 +1,24 @@
-## Hi there guest, I'm Dmitry Pavlenko 👋
+## Hello 👋, I'm Dmitry Pavlenko 👋
 
-<!--
-**DPavlen/DPavlen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![EMail Badge](https://img.shields.io/badge/-jobpavlenko@yandex.ru-0072b1?style=flat&logo=mail.ru&logoColor=white&link=mailto:jobpavlenko@yandex.ru)](mailto:jobpavlenko@yandex.ru)
 
-Here are some ideas to get you started:
+<a href="https://github.com/DPavlen" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://t.me/Thepavlen" target="_blank">
+<img src=https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 Backend developer
+- 🐊 Python programming language
+- 🚀 I'm interested in modern technologies
+- 🎓 Learning and developing
+- ⚙️ I love to create useful software 
+- 🤝 Looking for new friends 
+***
+## Check out what I'm doing
+
+### [Веб-проект "О Криптографии"](https://github.com/DPavlen/backend)
+![](https://img.shields.io/badge/Django-4.2.1-6495ED) ![](https://img.shields.io/badge/djangorestframework-3.14.0-6495ED)  ![](https://img.shields.io/badge/authtoken-2.1.4-6495ED) \
+Covers trends in the use of cryptography in finance, healthcare, law enforcement, and other industries.
+
