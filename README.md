@@ -1,4 +1,4 @@
-## Hello 👋, I'm Dmitry Pavlenko 👋
+## Hello 👋, I'm Dmitry Pavlenko
 
 [![EMail Badge](https://img.shields.io/badge/-jobpavlenko@yandex.ru-0072b1?style=flat&logo=mail.ru&logoColor=white&link=mailto:jobpavlenko@yandex.ru)](mailto:jobpavlenko@yandex.ru)
 
