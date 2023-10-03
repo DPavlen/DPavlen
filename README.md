@@ -22,6 +22,13 @@
 ![](https://img.shields.io/badge/Django-4.2.1-6495ED) ![](https://img.shields.io/badge/djangorestframework-3.14.0-6495ED)  ![](https://img.shields.io/badge/authtoken-2.1.4-6495ED) \
 Covers trends in the use of cryptography in finance, healthcare, law enforcement, and other industries.
 
+### [YaMDb project](https://github.com/DPavlen/api_yamdb_10)
+![](https://img.shields.io/badge/Django-3.2-6495ED) ![](https://img.shields.io/badge/DRF-3.12.4-6495ED) ![](https://img.shields.io/badge/SimpleJWT-4.7.2-6495ED) ![](https://img.shields.io/badge/django--import--export-3.2-6495ED) ![](https://img.shields.io/badge/pytest-6.2.4-6495ED) \
+API service that collects user feedback on artworks such as music, movies, books, etc
+
+[![Readme Card 2](https://github-readme-stats.vercel.app/api/pin/?username=DPavlen&repo=api_yamdb)](https://github.com/DPavlen/api_yamdb_10)
+
+
 ***
 
 ## My Github Stats
