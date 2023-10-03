@@ -19,11 +19,11 @@
 ## Check out what I'm doing
 
 ### [Веб-проект "О Криптографии"](https://github.com/DPavlen/backend)
-![](https://img.shields.io/badge/Django-4.2.1-6495ED) ![](https://img.shields.io/badge/djangorestframework-3.14.0-6495ED)  ![](https://img.shields.io/badge/authtoken-2.1.4-6495ED) \
+![](https://img.shields.io/badge/Django-4.2.1-6495ED) ![](https://img.shields.io/badge/djangorestframework-3.14.0-6495ED)  ![](https://img.shields.io/badge/authtoken-2.1.4-6495ED) [![Postman](https://img.shields.io/badge/Postman-10.18.9-6495ED?style=flat-square&logo=postman)](https://www.postman.com/) \
 Covers trends in the use of cryptography in finance, healthcare, law enforcement, and other industries.
 
 ### [YaMDb project](https://github.com/DPavlen/api_yamdb_10)
-![](https://img.shields.io/badge/Django-3.2-6495ED) ![](https://img.shields.io/badge/DRF-3.12.4-6495ED) ![](https://img.shields.io/badge/SimpleJWT-4.7.2-6495ED) ![](https://img.shields.io/badge/django--import--export-3.2-6495ED) ![](https://img.shields.io/badge/pytest-6.2.4-6495ED) \
+![](https://img.shields.io/badge/Django-3.2-6495ED) ![](https://img.shields.io/badge/DRF-3.12.4-6495ED) ![](https://img.shields.io/badge/SimpleJWT-4.7.2-6495ED) ![](https://img.shields.io/badge/django--import--export-3.2-6495ED) ![](https://img.shields.io/badge/pytest-6.2.4-6495ED) [![Postman](https://img.shields.io/badge/Postman-10.18.9-6495ED?style=flat-square&logo=postman)](https://www.postman.com/) \
 API service that collects user feedback on artworks such as music, movies, books, etc Users leave text reviews for works and rate them. From user ratings, an average rating of the work is formed - a rating. Users can leave comments on reviews.
 
 
