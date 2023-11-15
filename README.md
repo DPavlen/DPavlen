@@ -22,12 +22,12 @@
 ![](https://img.shields.io/badge/Django-4.2.1-6495ED) ![](https://img.shields.io/badge/djangorestframework-3.14.0-6495ED)  ![](https://img.shields.io/badge/authtoken-2.1.4-6495ED) [![Postman](https://img.shields.io/badge/Postman-10.18.9-6495ED?style=flat-square&logo=postman)](https://www.postman.com/) \
 [![Nginx](https://img.shields.io/badge/Nginx-1.21.3-green)](https://nginx.org/ru/) ![Django Authentication with Djoser](https://img.shields.io/badge/Django_Authentication_with_Djoser-2.2.0-6495ED) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-blue)
 View the general list of candidates with the ability to filter by key fields: “Direction of specialty”, “Practicum course”, “Key skills” and “Work experience”;
-Viewing a specific candidate vacancy with an overview of salary expectations, requirements for the candidate, place of residence and area of specialty; 
+Viewing a specific candidate vacancy with an overview of salary expectations, requirements for the candidate, place of residence and area of specialty; \
 Ознакомиться можно здесь ➡️ [Ссылка на проект](https://infinity-team-8.ru/)
 
 ### [Веб-проект "О Криптографии"](https://github.com/DPavlen/backend)
 ![](https://img.shields.io/badge/Django-4.2.1-6495ED) ![](https://img.shields.io/badge/djangorestframework-3.14.0-6495ED)  ![](https://img.shields.io/badge/authtoken-2.1.4-6495ED) [![Postman](https://img.shields.io/badge/Postman-10.18.9-6495ED?style=flat-square&logo=postman)](https://www.postman.com/) 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-blue)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-blue) \
 Covers trends in the use of cryptography in finance, healthcare, law enforcement, and other industries.
 
 ### [YaMDb project](https://github.com/DPavlen/api_yamdb_10)
