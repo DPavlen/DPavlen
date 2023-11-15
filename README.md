@@ -25,7 +25,7 @@ A unique opportunity to create the required vacancy, search for the ideal candid
 Ознакомиться можно здесь ➡️ [Ссылка на проект](https://infinity-team-8.ru/)
 
 ### [Project "О Криптографии"](https://github.com/DPavlen/backend)
-![](https://img.shields.io/badge/Django-4.2.1-6495ED) ![](https://img.shields.io/badge/djangorestframework-3.14.0-6495ED)  ![](https://img.shields.io/badge/authtoken-2.1.4-6495ED) [![Postman](https://img.shields.io/badge/Postman-10.18.9-6495ED?style=flat-square&logo=postman)](https://www.postman.com/) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-blue)
+![](https://img.shields.io/badge/Django-4.2.1-6495ED) ![](https://img.shields.io/badge/djangorestframework-3.14.0-6495ED)  ![](https://img.shields.io/badge/authtoken-2.1.4-6495ED) [![Postman](https://img.shields.io/badge/Postman-10.18.9-6495ED?style=flat-square&logo=postman)](https://www.postman.com/) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-blue) \
 Covers trends in the use of cryptography in finance, healthcare, law enforcement, and other industries.
 
 ### [YaMDb Project](https://github.com/DPavlen/api_yamdb_10)
