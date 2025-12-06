@@ -36,11 +36,6 @@
 A unique opportunity to create the required vacancy, search for the ideal candidate and achieve results. \
 Ознакомиться можно здесь ➡️ [Ссылка на проект](https://infinity-team-8.ru/)
 
-### [YaMDb Project](https://github.com/DPavlen/api_yamdb_10)
-![](https://img.shields.io/badge/Django-3.2-6495ED) ![](https://img.shields.io/badge/DRF-3.12.4-6495ED) ![](https://img.shields.io/badge/SimpleJWT-4.7.2-6495ED) ![](https://img.shields.io/badge/django--import--export-3.2-6495ED) ![](https://img.shields.io/badge/pytest-6.2.4-6495ED) [![Postman](https://img.shields.io/badge/Postman-10.18.9-6495ED?style=flat-square&logo=postman)](https://www.postman.com/) \
-API service that collects user feedback on artworks such as music, movies, books, etc Users leave text reviews for works and rate them. From user ratings, an average rating of the work is formed - a rating. Users can leave comments on reviews.\
-Ссылка на раздел в GitHub ➡️ [YaMDb Project](https://github.com/DPavlen/api_yamdb_10)
-
 ***
 
 ## My Github Stats
