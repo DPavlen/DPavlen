@@ -21,21 +21,6 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 ---
-
-## Check out what I'm doing
-
-### [Project "Pay2U_Service"](https://github.com/DPavlen/Pay2U_Service)
-![](https://img.shields.io/badge/Django-4.2.1-6495ED) ![](https://img.shields.io/badge/djangorestframework-3.14.0-6495ED)  ![](https://img.shields.io/badge/authtoken-2.1.4-6495ED) [![Postman](https://img.shields.io/badge/Postman-10.18.9-6495ED?style=flat-square&logo=postman)](https://www.postman.com/) \
-[![Nginx](https://img.shields.io/badge/Nginx-1.21.3-green)](https://nginx.org/ru/) ![Django Authentication with Djoser](https://img.shields.io/badge/Django_Authentication_with_Djoser-2.2.0-6495ED) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-blue) [![Docker](https://img.shields.io/badge/Docker-%2024.0.5-blue?style=flat-square&logo=docker)](https://www.docker.com/) [![DockerCompose](https://img.shields.io/badge/Docker_Compose-%202.21.0-blue?style=flat-square&logo=docsdotrs)](https://docs.docker.com/compose/) [![Swagger](https://img.shields.io/badge/Swagger-%201.21.7-blue?style=flat-square&logo=swagger)](https://swagger.io/) \
-Направлен на улучшение понимания пользователем сервиса и повышение конверсии. Конечными пользователями являются розничные клиенты банков – пользователи банковских мобильных приложений. \
-Ознакомиться можно здесь ➡️ [Ссылка на проект](https://github.com/DPavlen/Pay2U_Service)
-
-### [Project "Career Center"](https://github.com/DPavlen/Hackathon_team_8)
-![](https://img.shields.io/badge/Django-4.2.1-6495ED) ![](https://img.shields.io/badge/djangorestframework-3.14.0-6495ED)  ![](https://img.shields.io/badge/authtoken-2.1.4-6495ED) [![Postman](https://img.shields.io/badge/Postman-10.18.9-6495ED?style=flat-square&logo=postman)](https://www.postman.com/) \
-[![Nginx](https://img.shields.io/badge/Nginx-1.21.3-green)](https://nginx.org/ru/) ![Django Authentication with Djoser](https://img.shields.io/badge/Django_Authentication_with_Djoser-2.2.0-6495ED) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-blue) [![Docker](https://img.shields.io/badge/Docker-%2024.0.5-blue?style=flat-square&logo=docker)](https://www.docker.com/) [![DockerCompose](https://img.shields.io/badge/Docker_Compose-%202.21.0-blue?style=flat-square&logo=docsdotrs)](https://docs.docker.com/compose/) [![Swagger](https://img.shields.io/badge/Swagger-%201.21.7-blue?style=flat-square&logo=swagger)](https://swagger.io/) \
-A unique opportunity to create the required vacancy, search for the ideal candidate and achieve results. \
-Ознакомиться можно здесь ➡️ [Ссылка на проект](https://infinity-team-8.ru/)
-
 ***
 
 ## My Github Stats
