@@ -22,10 +22,3 @@
 
 ---
 ***
-
-## My Github Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DPavlen)](https://github.com/anuraghazra/github-readme-stats)
-<!-- ![](https://komarev.com/ghpvc/?username=DPavlen&style=for-the-badge&label=MY_PROFILE_VIEWS) -->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DPavlen&layout=donut&custom_title=My+Most+Used+Languages)](https://github.com/DPavlen/github-readme-stats)
-
